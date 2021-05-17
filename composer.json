@@ -1,0 +1,12 @@
+{
+    "name": "sismicfr/hello",
+    "require": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Laurent",
+            "email": "lbolzer@sismic.fr"
+        }
+    ]
+}
